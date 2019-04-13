@@ -1,0 +1,7 @@
+00:39:35,524 DEBUG arunavLogger:50 - Initialize webdriver started
+00:39:35,526 DEBUG arunavLogger:74 - Setting browser : chrome
+00:39:35,832 DEBUG Preferences:118 - Preference found chrome73=2.46 (valid until 2019-04-13 00:54:20)
+00:39:35,832  INFO WebDriverManager:546 - Using chromedriver 2.46 (since Google Chrome 73 is installed in your machine)
+00:39:35,841 DEBUG WebDriverManager:502 - Driver chromedriver 2.46 found in cache
+00:39:35,841  INFO WebDriverManager:1035 - Exporting webdriver.chrome.driver as /Users/agup18/.m2/repository/webdriver/chromedriver/mac64/2.46/chromedriver
+00:39:37,106 DEBUG arunavLogger:96 - Navigate to : https://www.starwars.com/ application
