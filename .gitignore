@@ -1,4 +1,4 @@
-/.idea/
-/uiAutomation.iml
-/target/
-/src/test/resources/logs
+/.idea/*
+/uiAutomation.iml*
+/target/*
+/src/test/resources/logs/*
