@@ -1,1 +1,2 @@
 # starwarUI
+![](video/automation.gif)
